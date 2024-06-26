@@ -1,0 +1,30 @@
+.container {
+  width: 600px;
+  margin:auto;
+  margin-top: 50px;
+}
+
+.inputContainer {
+  margin-top: 15px;
+}
+
+.button {
+  margin-top: 25px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button Button {
+  background-color: #7bc89c;
+  border: #7bc89c 1px solid;
+}
+
+.inputContainer input{
+    border-bottom: #7bc89c 2px solid;
+}
+
+.inputContainer select{
+    border-bottom: #7bc89c 2px solid;
+
+}
